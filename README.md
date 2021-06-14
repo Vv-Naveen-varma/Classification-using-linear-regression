@@ -1,8 +1,5 @@
 ## Classification using Linear regression model
 
-### Clarification: Some might have a doubt regarding the difference b/w Linear and Logistic Regression, if so, have a look at the example below
-![image](https://user-images.githubusercontent.com/63995834/121844304-66e6df80-cd01-11eb-8845-bb19edd84409.png)
-
 ### First let's start with a linear model example to classify whether a person has diabetes or not
 
 ## Target
