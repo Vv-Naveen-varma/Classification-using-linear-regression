@@ -8,7 +8,8 @@ where w1, w2 are weights which dictate a slope and b is the bias
 * We use Sigmoid function to predict continuos probabilities for each point.
 * Using these probabilities we calculate the error with Cross Entropy [It is an error function used to calculate the total error associated with our linear model, the more incorrect our model in separating our data more the entropy value, thus larger the error]
 * We use gradient descent, which keeps minimizing the error, doing so obtaining the linear model.
-Gradient descent:
+
+### Gradient descent:
 
 ![image](https://user-images.githubusercontent.com/63995834/121845255-cdb8c880-cd02-11eb-810a-fb6b0010a506.png)
 
