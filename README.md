@@ -4,7 +4,7 @@
 
 ### We are going to build a Linear classification model to understand the neural network concepts
 
-### Theory:
+## Theory:
     A line can be represented as 
     
     w1x1 + w2x2 + b = 0 
