@@ -9,4 +9,4 @@ where w1, w2 are weights which dictate a slope and b is the bias
 * Using these probabilities we calculate the error with Cross Entropy [It is an error function used to calculate the total error associated with our linear model, the more incorrect our model in separating our data more the entropy value, thus larger the error]
 * We use gradient descent, which keeps minimizing the error, doing so obtaining the linear model.
 ### Use might have a doubt about the difference b/w Linear and Logistic Regression, if so, have a look at the example below
-![image](https://user-images.githubusercontent.com/63995834/121843900-bb3d8f80-cd00-11eb-9b26-8d7859487f80.png)
+![image](https://user-images.githubusercontent.com/63995834/121844304-66e6df80-cd01-11eb-8845-bb19edd84409.png)
