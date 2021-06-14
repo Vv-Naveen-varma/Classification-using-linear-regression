@@ -1,4 +1,4 @@
-## Classification using Logistic regression model
+## Classification using Linear regression model
 ### Theory:
 A line can be represented as 
 w1x1 + w2x2 + b = 0
