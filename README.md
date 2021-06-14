@@ -1,4 +1,11 @@
-## Classification using Linear regression model
+## Classification using Linear regression model using neural networks
+
+### We are going to build a Linear classification model to understand the neural network concepts 
+> How do we build a model? 
+
+> How do we know that our model is working properly?
+
+All these questions will be answered.
 
 ### First let's start with a linear model example to classify whether a person has diabetes or not
 
