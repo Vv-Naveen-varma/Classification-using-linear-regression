@@ -15,7 +15,7 @@ All these questions will be answered.
 
 Graph Description:
 * Each point in the graph represents a person
-* Points in blue color represents preson who does not have diabetes
+* Points in blue color represents person who does not have diabetes
 * points in red color represents person who has diabetes
 
 * As shown above, considering age and blood glucose levels of a person on x and y axis, we need to find a line that best classifies the data. So that, when a new person's details are entered our model must be able to classify which group the person belongs to. In other words, whether the person has a risk of diabetes or not.
