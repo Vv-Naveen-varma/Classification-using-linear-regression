@@ -5,7 +5,7 @@
 
 ### First let's start with a linear model example to classify whether a person has diabetes or not
 
-### Target
+## Target
 
 ![image1](https://user-images.githubusercontent.com/63995834/121881935-84ca3980-cd2d-11eb-90f5-b4d14e139547.jpg)
 
