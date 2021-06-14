@@ -52,9 +52,9 @@ final linear model looks like this:
 
 ![image11](https://user-images.githubusercontent.com/63995834/121882053-a9261600-cd2d-11eb-91c4-e309191ab22f.jpg)
 
-* From the image above, we can see that there is high error value. So we move the line in the diraction of the most errors, as hown below, until all erro penalties are sufficiently small, thus minimizing the error.
+* From the image above, we can see that there is high error value. So we move the line in the direction of the most errors, as shown below, until all error penalties are sufficiently small, thus minimizing the error.
 
-![image12](https://user-images.githubusercontent.com/63995834/121882072-afb48d80-cd2d-11eb-9455-37761194bb7a.jpg)       ![image13](https://user-images.githubusercontent.com/63995834/121882099-b6db9b80-cd2d-11eb-89a9-e221dc5f7d65.jpg)       ![image14](https://user-images.githubusercontent.com/63995834/121882116-bb07b900-cd2d-11eb-8395-d6a74a85d7b4.jpg)       ![image15](https://user-images.githubusercontent.com/63995834/121882128-bf33d680-cd2d-11eb-81bd-960fbc351f29.jpg)
+![image12](https://user-images.githubusercontent.com/63995834/121882072-afb48d80-cd2d-11eb-9455-37761194bb7a.jpg)                   ![image13](https://user-images.githubusercontent.com/63995834/121882099-b6db9b80-cd2d-11eb-89a9-e221dc5f7d65.jpg)                   ![image14](https://user-images.githubusercontent.com/63995834/121882116-bb07b900-cd2d-11eb-8395-d6a74a85d7b4.jpg)                   ![image15](https://user-images.githubusercontent.com/63995834/121882128-bf33d680-cd2d-11eb-81bd-960fbc351f29.jpg)
 
 * Lets re-think our perceptron model
 
@@ -69,7 +69,7 @@ image17![image17](https://user-images.githubusercontent.com/63995834/121882152-c
 
 ### Cross Entropy Theory:
 
-        It is an error function used to calculate the total error associated with our linear model, Remember "more incorrect our model in separating our data-more the entropy value", thus larger the error.
+            It is an error function used to calculate the total error associated with our linear model, Remember "more incorrect our model in separating our data-more the entropy value", thus larger the error.
 
 * The idea is that with some random displayed data the computer will display some random model, based on that model it needs to calculate the error.
 
@@ -102,6 +102,7 @@ So, what is this Gradient Descent?
 
 * Step-7: Finally, by following all these steps I implemented a linear classification model using neural network.
 
-## Note;
-These are the required basics for understanding the concepts of deep neural network. Now that you understood these, you can proceed to Deep Neural Networks models click on 
+## Note
+These are the required basics for understanding the concepts of deep neural network. Now that you understood these, you can proceed to Deep Neural Networks models click on
+
                         Link
