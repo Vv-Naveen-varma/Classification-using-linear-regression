@@ -2,6 +2,8 @@
 
 ### Have a look at the concepts of neural networks at [medium](https://naveen-varma.medium.com/linear-classification-model-using-neural-networks-basics-of-deep-neural-networks-2f37fa8f07bb)
 
+### Note that all neural networks are referred as Artificial Neural Networks(ANN). The neural networks with more than one hidden layer are called Deep Neural Networks(DNN). Convolutional Neural Networks(CNN) are mainly used in image processing.
+
 ### We are going to build a Linear binary classification model to understand the neural network concepts
 
 ## Theory:
