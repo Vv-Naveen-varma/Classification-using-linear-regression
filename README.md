@@ -20,3 +20,5 @@
 * We use Sigmoid function to predict continuos probabilities for each point.
 * Using these probabilities we calculate the error with Cross Entropy [It is an error function used to calculate the total error associated with our linear model, the more incorrect our model in separating our data more the entropy value, thus larger the error]
 * We use gradient descent, which keeps minimizing the error, doing so obtaining the linear model.
+
+> To goto Non-linear Clssification neural network [click here](https://github.com/Vv-Naveen-varma/Non-Linear-classification-model.git)
