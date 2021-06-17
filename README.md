@@ -21,4 +21,10 @@
 * Using these probabilities we calculate the error with Cross Entropy [It is an error function used to calculate the total error associated with our linear model, the more incorrect our model in separating our data more the entropy value, thus larger the error]
 * We use gradient descent, which keeps minimizing the error, doing so obtaining the linear model.
 
+## Code Excecution:
+1. Download the notebook file from this repo.
+2. Install jupyter Notebook through anaconda installer.
+3. Install all required Libraries like Matplotlib.
+4. That's it you are good to go. Open jupyter notebook and run all cells and check out the implementation.
+
 > To goto Non-linear Clssification neural network [click here](https://github.com/Vv-Naveen-varma/Non-Linear-classification-model.git)
