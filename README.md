@@ -27,4 +27,4 @@
 3. Install all required Libraries like Matplotlib.
 4. That's it you are good to go. Open jupyter notebook and run all cells and check out the implementation.
 
-> To goto Non-linear Clssification neural network [click here](https://github.com/Vv-Naveen-varma/Non-Linear-classification-model.git)
+> To learn Non-linear Clssification neural network [click here](https://github.com/Vv-Naveen-varma/Non-Linear-classification-model.git)
