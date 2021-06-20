@@ -1,4 +1,4 @@
-# Classification with Linear regression model using neural networks
+# Linear Binary Classification model using Neural Networks
 
 ### Have a look at the concepts of neural networks at [medium](https://naveen-varma.medium.com/linear-classification-model-using-neural-networks-basics-of-deep-neural-networks-2f37fa8f07bb)
 
